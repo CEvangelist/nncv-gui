@@ -1,0 +1,6 @@
+.idea/
+fonts/
+__pycache__/
+
+*.pkl
+*.otf

@@ -1,0 +1,8 @@
+pyqt5
+insightface
+numpy
+opencv-python
+pillow
+
+# install tensorflow>=2.0 and tensorflow-datasets yourself
+# The official website is: https://www.tensorflow.org
